@@ -1,5 +1,5 @@
 # fastvtw
-一个视频转文字的好帮手
+一个视频转文字的好帮手，他是基于fast-whisper的软件
 
 #安装依赖
 pip install -r requirements.txt
